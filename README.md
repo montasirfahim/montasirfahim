@@ -1,9 +1,5 @@
 # 👋 Hi, I’m Montasir Fahim 
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=montasirfahim&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=montasirfahim&theme=radical" alt="GitHub Streak" height="150" />
-</p>
 
 ###  About Me
 - 👀 I’m interested in **Problem Solving**, **Backend Engineering**, and **Cross-Platform Mobile Apps**.
