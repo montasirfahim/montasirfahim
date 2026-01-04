@@ -2,7 +2,7 @@
 
 
 ###  About Me
-- 👀 I’m interested in **Problem Solving**, **Backend Engineering**, and **Cross-Platform Mobile Apps**.
+- 👀 I’m interested in **Problem Solving**, **Backend Engineering**
 - 🌱 I’m currently deep-diving into **Data Structures & Algorithms (DSA)**.
 - 💻 I build robust systems using **Java/Spring Boot** and **Python/Django**.
 - 📱 I develop mobile applications using **Flutter & Dart**.
