@@ -6,7 +6,7 @@
 - 🌱 I’m currently deep-diving into **Data Structures & Algorithms (DSA)**.
 - 💻 I build robust systems using **Java-Spring Boot** and **Python-Django**.
 - 📱 I develop mobile applications using **Flutter & Dart**.
-- 🔗 **Portfolio:** [montasirfahim.github.io/Portfolio](https://montasirfahim.github.io/portfolio)
+- 🔗 **Portfolio:** [montasirfahim.github.io/portfolio](https://montasirfahim.github.io/portfolio)
 - 📫 **Reach me:** [montasirtuhin1128@gmail.com](mailto:montasirtuhin1128@gmail.com)
 
 ---
