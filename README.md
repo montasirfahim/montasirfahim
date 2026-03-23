@@ -6,7 +6,7 @@
 - 🌱 I’m currently deep-diving into **Data Structures & Algorithms (DSA)**.
 - 💻 I build robust systems using **Java-Spring Boot** and **Python-Django**.
 - 📱 I develop mobile applications using **Flutter & Dart**.
-- 🔗 **Portfolio:** [montasirfahim.github.io/Portfolio](https://montasirfahim.github.io/Portfolio)
+- 🔗 **Portfolio:** [montasirfahim.github.io/Portfolio](https://montasirfahim.github.io/portfolio)
 - 📫 **Reach me:** [montasirtuhin1128@gmail.com](mailto:montasirtuhin1128@gmail.com)
 
 ---
@@ -20,7 +20,7 @@
 
 #### 📱 Mobile & Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,html,css,bootstrap,js,thymeleaf" alt="Frontend and Mobile Skills" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,html,css,bootstrap,tailwind,js,thymeleaf" alt="Frontend and Mobile Skills" />
 </p>
 
 #### 🔧 Tools & Environment
