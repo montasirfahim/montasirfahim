@@ -11,6 +11,9 @@
 
 ---
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=montasirfahim&layout=compact&theme=dark)
+
+
 ###  Tech Stack & Tools
 
 #### 💻 Backend 
