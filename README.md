@@ -11,7 +11,7 @@
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=montasirfahim&layout=compact&theme=dark&hide_border=true)
+![Top Langs](https://montasirfahim.vercel.app/api/top-langs/?username=montasirfahim&layout=compact&theme=dark)
 
 ###  Tech Stack & Tools
 
