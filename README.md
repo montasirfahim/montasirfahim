@@ -11,7 +11,7 @@
 
 ---
 
-![Top Langs](https://montasirfahim.vercel.app/api/top-langs/?username=montasirfahim&layout=compact&theme=dark)
+![Top Langs](https://montasirfahim.vercel.app/api/top-langs/?username=montasirfahim&theme=dark&count_private=true&langs_count=10)
 
 ###  Tech Stack & Tools
 
